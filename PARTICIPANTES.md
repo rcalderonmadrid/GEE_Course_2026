@@ -37,7 +37,7 @@ mucho más que «aprender GEE».
 
 **05.**
 
-**06.**
+**06.** Rocio Calderon Madrid · [@https://github.com/rcalderonmadrid] · Analizar series temporales Landsat y Sentinel-2 para detectar cambios espectrales asociados al inicio de enfermedades en cultivos. 
 
 **07.**
 
