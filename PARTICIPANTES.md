@@ -29,7 +29,7 @@ mucho más que «aprender GEE».
 **01.** 
 **01.** Patricia Tena Romero. [@patriciatenaromero-eng!](https://github.com/patriciatenaromero-eng) Aprender todo lo que pueda
 
-**02.** Pilar Lafita Narbona · [@pilarlafita](https://github.com/pilarlafita) · Aprender a trabajar con la interfaz de GEE e identificar herramientas para analizar cambios de usos del suelo espacial y temporalmente
+**02.**
 
 **03.**
 
@@ -37,7 +37,7 @@ mucho más que «aprender GEE».
 
 **05.**
 
-**06.**
+**06.** Rocio Calderon Madrid · [@rcalderonmadrid](https://github.com/rcalderonmadrid) · Análisis de series temporales de Landsat y Sentinel2 para monitorizar cambios espectrales relativos a enfermedades en cultivos
 
 **07.** Gabriel Padilla Rebollo · [@gabipr96](https://github.com/gabipr96) · Entender todas las aplicaciones posibles de GEE e intentar aplicarlas en futuros proyectos.
 
@@ -57,5 +57,4 @@ mucho más que «aprender GEE».
 
 **15.** Ángela Mosquera Giménez · [@angelamosquera](https://github.com/angelamosquera) · Familiarizarme con la herramienta GEE y ver cómo puedo aplicarla a mi área trabajo en oceanografía física
 
-**16.** Carmen Jiménez Carrasco · [@carmenjc-cloud](https://github.com/carmenjc-cloud) · Caracterización de habitat
-
+**16.**
